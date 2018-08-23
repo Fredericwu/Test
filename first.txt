@@ -2,12 +2,7 @@ hello
 this is first.txt
 i change this file
 u can see it
-
-
-
 asd
-
-
 f
 ads
 fas
