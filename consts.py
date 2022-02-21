@@ -2,5 +2,5 @@
 """
 Global constants for vtel
 """
-VERSION = '_test20220221145647'
+VERSION = 'v1.0.0-Beta'
 
